@@ -15,7 +15,7 @@
 <br>
 
 - A Passionate Self-taught Front-End Web developer.
-- Geology Engineering Graduate, Al-Azhar university.
+- Computer science student , SVU university.
 - Currently, I'm Learning Front-End Development.
 
 <br>
